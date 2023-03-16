@@ -5,4 +5,5 @@ use (
     variadic_function
     deepcopy
     error
+    testmain
 )
