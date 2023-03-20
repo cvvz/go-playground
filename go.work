@@ -7,6 +7,6 @@ use (
     error
     testmain
     cgo
-    stderr
+    std_io
     signal
 )
