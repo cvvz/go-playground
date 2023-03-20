@@ -6,4 +6,6 @@ use (
     deepcopy
     error
     testmain
+    cgo
+    stderr
 )
