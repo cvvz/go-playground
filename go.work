@@ -8,4 +8,5 @@ use (
     testmain
     cgo
     stderr
+    signal
 )
