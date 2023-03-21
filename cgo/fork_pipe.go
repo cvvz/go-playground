@@ -6,6 +6,7 @@ import "C"
 import (
 	"fmt"
 	"os"
+	"time"
 )
 
 func main() {
@@ -20,9 +21,14 @@ func main() {
 	} else if pid > 0 {
 		fmt.Printf("parent process: pid %d, child pid %d\n", os.Getpid(), pid)
 		buf := make([]byte, 1024)
-		n, _ := r.Read(buf)
-		fmt.Printf("parent process get %d bytes: %s", n, buf)
-		os.Exit(0)
+		timeTick := time.Tick(500 * time.Millisecond)
+		for {
+			select {
+			case <-timeTick:
+				n, _ := r.Read(buf)
+				fmt.Printf("parent process get %d bytes: %s", n, buf)
+			}
+		}
 	} else {
 		fmt.Printf("child process: pid %d\n", os.Getpid())
 		os.Stdout = w

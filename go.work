@@ -1,6 +1,7 @@
 go 1.19
 
 use (
+    .
     generic
     variadic_function
     deepcopy
@@ -9,4 +10,5 @@ use (
     cgo
     std_io
     signal
+    timer_for_select
 )
