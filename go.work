@@ -11,4 +11,5 @@ use (
     std_io
     signal
     timer_for_select
+    ginkgo/books
 )
