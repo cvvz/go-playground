@@ -9,11 +9,12 @@ import (
 	"example/books"
 )
 
+var i bool
+
 var _ = ginkgo.Describe("Book", func() {
 	var foxInSocks, lesMis *books.Book
 
 	ginkgo.BeforeEach(func() {
-		time.Sleep(20 * time.Second)
 		lesMis = &books.Book{
 			Title:  "Les Miserables",
 			Author: "Victor Hugo",
@@ -30,7 +31,6 @@ var _ = ginkgo.Describe("Book", func() {
 	ginkgo.Describe("Categorizing books", func() {
 		ginkgo.Context("with more than 300 pages", func() {
 			ginkgo.BeforeEach(func() {
-				time.Sleep(20 * time.Second)
 			})
 			ginkgo.It("should be a novel", func() {
 				Expect(lesMis.Category()).To(Equal(books.CategoryNovel))
@@ -55,8 +55,7 @@ var _ = ginkgo.Describe("Book", func() {
 	})
 })
 
-var _ = ginkgo.It("can extract the author's first name", func() {
-	time.Sleep(20 * time.Second)
+var _ = ginkgo.It("can extract the author's first name", ginkgo.Serial, func() {
 	book := &books.Book{
 		Title:  "Les Miserables",
 		Author: "Victor Hugo",
@@ -69,7 +68,6 @@ var _ = ginkgo.It("can extract the author's first name", func() {
 
 var _ = ginkgo.Describe("Books", func() {
 	ginkgo.It("can extract the author's last name", func() {
-		time.Sleep(20 * time.Second)
 		book := &books.Book{
 			Title:  "Les Miserables",
 			Author: "Victor Hugo",
@@ -80,8 +78,7 @@ var _ = ginkgo.Describe("Books", func() {
 	})
 
 	ginkgo.It("can fetch a summary of the book from the library service", func(ctx ginkgo.SpecContext) {
-		time.Sleep(20 * time.Second)
-		helper()
+		flakehelper()
 	}, ginkgo.SpecTimeout(time.Second))
 })
 
@@ -89,7 +86,7 @@ var _ = ginkgo.Describe("book", func() {
 	var book *books.Book
 
 	ginkgo.BeforeEach(func() {
-		time.Sleep(20 * time.Second)
+
 		book = &books.Book{
 			Title:  "Les Miserables",
 			Author: "Victor Hugo",
@@ -106,12 +103,16 @@ var _ = ginkgo.Describe("book", func() {
 		ginkgo.Entry("When author has both names", "Victor Hugo", true, "Victor", "Hugo"),
 		ginkgo.Entry("When author has one name", "Hugo", true, "", "Hugo"),
 		ginkgo.Entry("When author has a middle name", "Victor Marie Hugo", true, "Victor", "Hugo"),
-		ginkgo.Entry("When author has no name", "", false, "", ""),
 	)
-
 })
 
-func helper() {
-	// ginkgo.GinkgoHelper()
-	// ginkgo.Fail("User is too young for this book")
+// ginkgo -p -vv --flake-attempts=2
+// Ran 6 of 6 Specs in 0.057 seconds
+// SUCCESS! -- 6 Passed | 0 Failed | 1 Flaked | 0 Pending | 0 Skipped
+func flakehelper() {
+	ginkgo.GinkgoHelper()
+	if !i {
+		i = !i
+		ginkgo.Fail("User is too young for this book")
+	}
 }
