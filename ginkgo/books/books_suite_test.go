@@ -14,6 +14,15 @@ func TestBooks(t *testing.T) {
 	ginkgo.RunSpecs(t, "Books Suite")
 }
 
-var _ = ginkgo.SynchronizedAfterSuite(func(ctx context.Context) {}, func(ctx context.Context) {
-	ginkgo.By("hahahahahaha")
+var _ = ginkgo.SynchronizedBeforeSuite(func(ctx context.Context) []byte {
+	ginkgo.By("=================")
+	return []byte{}
+}, func(ctx context.Context, data []byte) {
+	ginkgo.By("****************")
+})
+
+var _ = ginkgo.SynchronizedAfterSuite(func(ctx context.Context) {
+	ginkgo.By("****************")
+}, func(ctx context.Context) {
+	ginkgo.By("=================")
 }, ginkgo.NodeTimeout(1*time.Second))

@@ -1,6 +1,7 @@
 package books_test
 
 import (
+	"sync"
 	"time"
 
 	"github.com/onsi/ginkgo/v2"
@@ -56,13 +57,21 @@ var _ = ginkgo.Describe("Book", func() {
 })
 
 var _ = ginkgo.It("can extract the author's first name", ginkgo.Serial, func() {
+	var wg sync.WaitGroup
 	book := &books.Book{
 		Title:  "Les Miserables",
 		Author: "Victor Hugo",
 		Pages:  2783,
 	}
 	ginkgo.By("test output")
+	wg.Add(1)
+	go func() {
+		defer ginkgo.GinkgoRecover()
+		defer wg.Done()
+		panic("")
+	}()
 
+	wg.Wait()
 	Expect(book.AuthorFirstName()).To(Equal("Victor"))
 })
 
