@@ -12,4 +12,6 @@ use (
     signal
     timer_for_select
     ginkgo/books
+    ginkgo/framework
+    ginkgo/sample
 )

@@ -1,0 +1,365 @@
+Running Suite: kubernetes e2e framework Suite - /home/weizhichen/go-playground/ginkgo/framework
+===============================================================================================
+Random Seed: [1m1680499072[0m
+
+Will run [1m3[0m of [1m3[0m specs
+Running in parallel across [1m15[0m processes
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.403[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.403 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.41[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.41 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.411[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.411 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.418[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.418 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.419[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.42 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.423[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.423 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.423[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.423 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.427[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.427 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.43[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.43 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.436[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.436 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.438[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.438 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.44[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:54.44 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m• [4.111 seconds][0m
+Framework E2E
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/framework_test.go:9[0m
+  [38;5;10m[1mshould run a test[0m
+  [38;5;243m/home/weizhichen/go-playground/ginkgo/framework/framework_test.go:12[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[BeforeEach][0m Framework E2E [38;5;243m- set up framework | framework.go:178 @ 04/03/23 13:17:54.403[0m
+  [1mSTEP:[0m Creating a kubernetes client [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:198 @ 04/03/23 13:17:54.403[0m
+  Apr  3 13:17:54.403: INFO: >>> kubeConfig: /home/weizhichen/.kube/config
+  [1mSTEP:[0m Building a namespace api object, basename framework-e2e [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:237 @ 04/03/23 13:17:54.423[0m
+  [1mSTEP:[0m Waiting for a default service account to be provisioned in namespace [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:246 @ 04/03/23 13:17:57.321[0m
+  [1mSTEP:[0m Waiting for kube-root-ca.crt to be provisioned in namespace [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:249 @ 04/03/23 13:17:57.789[0m
+  < Exit [1m[BeforeEach][0m Framework E2E [38;5;243m- set up framework | framework.go:178 @ 04/03/23 13:17:58.268 (3.866s)[0m
+  > Enter [1m[It][0m should run a test [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/framework_test.go:12 @ 04/03/23 13:17:58.268[0m
+  [1mSTEP:[0m Running a test [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/framework_test.go:13 @ 04/03/23 13:17:58.268[0m
+  < Exit [1m[It][0m should run a test [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/framework_test.go:12 @ 04/03/23 13:17:58.268 (0s)[0m
+  > Enter [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- dump namespaces | framework.go:196 @ 04/03/23 13:17:58.268[0m
+  < Exit [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- dump namespaces | framework.go:196 @ 04/03/23 13:17:58.269 (0s)[0m
+  > Enter [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- tear down framework | framework.go:193 @ 04/03/23 13:17:58.269[0m
+  [1mSTEP:[0m Destroying namespace "framework-e2e-4678" for this suite. [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:334 @ 04/03/23 13:17:58.269[0m
+  < Exit [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- tear down framework | framework.go:193 @ 04/03/23 13:17:58.514 (246ms)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:58.515[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:17:58.515 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;9m• [FAILED] [11.212 seconds][0m
+Framework E2E
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/framework_test.go:9[0m
+  [38;5;9m[1m[It] should run a failed test[0m
+  [38;5;243m/home/weizhichen/go-playground/ginkgo/framework/framework_test.go:16[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[BeforeEach][0m Framework E2E [38;5;243m- set up framework | framework.go:178 @ 04/03/23 13:17:54.403[0m
+  [1mSTEP:[0m Creating a kubernetes client [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:198 @ 04/03/23 13:17:54.403[0m
+  Apr  3 13:17:54.403: INFO: >>> kubeConfig: /home/weizhichen/.kube/config
+  [1mSTEP:[0m Building a namespace api object, basename framework-e2e [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:237 @ 04/03/23 13:17:54.416[0m
+  [1mSTEP:[0m Waiting for a default service account to be provisioned in namespace [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:246 @ 04/03/23 13:17:56.851[0m
+  [1mSTEP:[0m Waiting for kube-root-ca.crt to be provisioned in namespace [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:249 @ 04/03/23 13:17:57.319[0m
+  < Exit [1m[BeforeEach][0m Framework E2E [38;5;243m- set up framework | framework.go:178 @ 04/03/23 13:17:57.789 (3.387s)[0m
+  > Enter [1m[It][0m should run a failed test [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/framework_test.go:16 @ 04/03/23 13:17:57.789[0m
+  [1mSTEP:[0m Running a test [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/framework_test.go:17 @ 04/03/23 13:17:57.79[0m
+  [38;5;9m[FAILED] Expected
+      <bool>: false
+  to be true[0m
+  [38;5;9mIn [1m[It][0m[38;5;9m at: [1m/home/weizhichen/go-playground/ginkgo/framework/framework_test.go:18[0m [38;5;243m@ 04/03/23 13:17:57.79[0m
+  < Exit [1m[It][0m should run a failed test [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/framework_test.go:16 @ 04/03/23 13:17:57.79 (1ms)[0m
+  > Enter [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- dump namespaces | framework.go:196 @ 04/03/23 13:17:57.79[0m
+  [1mSTEP:[0m dump namespace information after failure [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:271 @ 04/03/23 13:17:57.79[0m
+  [1mSTEP:[0m Collecting events from namespace "framework-e2e-3598". [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/debug/dump.go:42 @ 04/03/23 13:17:57.79[0m
+  [1mSTEP:[0m Found 0 events. [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/debug/dump.go:46 @ 04/03/23 13:17:58.042[0m
+  Apr  3 13:17:58.514: INFO: POD  NODE  PHASE  GRACE  CONDITIONS
+  Apr  3 13:17:58.514: INFO: 
+  Apr  3 13:17:59.001: INFO: 
+  Logging node info for node aks-nodepool1-39579978-vmss000000
+  Apr  3 13:17:59.248: INFO: Node Info: &Node{ObjectMeta:{aks-nodepool1-39579978-vmss000000    aead6791-5165-4417-9519-4cd01ba1c476 24594 0 2023-04-03 11:28:18 +0800 CST <nil> <nil> map[agentpool:nodepool1 beta.kubernetes.io/arch:amd64 beta.kubernetes.io/instance-type:Standard_DS2_v2 beta.kubernetes.io/os:linux failure-domain.beta.kubernetes.io/region:eastus failure-domain.beta.kubernetes.io/zone:0 kubernetes.azure.com/agentpool:nodepool1 kubernetes.azure.com/cluster:MC_weizhichen_weizhichen_eastus kubernetes.azure.com/kubelet-identity-client-id:4b112e85-455e-4bd0-83d1-392e3906a1b4 kubernetes.azure.com/mode:system kubernetes.azure.com/node-image-version:AKSUbuntu-1804gen2containerd-202303.13.0 kubernetes.azure.com/os-sku:Ubuntu kubernetes.azure.com/role:agent kubernetes.azure.com/storageprofile:managed kubernetes.azure.com/storagetier:Premium_LRS kubernetes.io/arch:amd64 kubernetes.io/hostname:aks-nodepool1-39579978-vmss000000 kubernetes.io/os:linux kubernetes.io/role:agent node-role.kubernetes.io/agent: node.kubernetes.io/instance-type:Standard_DS2_v2 storageprofile:managed storagetier:Premium_LRS topology.disk.csi.azure.com/zone: topology.kubernetes.azure.com/sub-fault-domain:0 topology.kubernetes.io/region:eastus topology.kubernetes.io/zone:0] map[csi.volume.kubernetes.io/nodeid:{"disk.csi.azure.com":"aks-nodepool1-39579978-vmss000000","file.csi.azure.com":"aks-nodepool1-39579978-vmss000000"} node.alpha.kubernetes.io/ttl:0 volumes.kubernetes.io/controller-managed-attach-detach:true] [] [] [{kubelet Update v1 2023-04-03 11:28:18 +0800 CST FieldsV1 {"f:metadata":{"f:annotations":{".":{},"f:volumes.kubernetes.io/controller-managed-attach-detach":{}},"f:labels":{".":{},"f:agentpool":{},"f:beta.kubernetes.io/arch":{},"f:beta.kubernetes.io/os":{},"f:kubernetes.azure.com/agentpool":{},"f:kubernetes.azure.com/cluster":{},"f:kubernetes.azure.com/kubelet-identity-client-id":{},"f:kubernetes.azure.com/mode":{},"f:kubernetes.azure.com/node-image-version":{},"f:kubernetes.azure.com/os-sku":{},"f:kubernetes.azure.com/role":{},"f:kubernetes.azure.com/storageprofile":{},"f:kubernetes.azure.com/storagetier":{},"f:kubernetes.io/arch":{},"f:kubernetes.io/hostname":{},"f:kubernetes.io/os":{}}}} } {cloud-controller-manager Update v1 2023-04-03 11:28:26 +0800 CST FieldsV1 {"f:spec":{"f:podCIDR":{},"f:podCIDRs":{".":{},"v:\"10.244.0.0/24\"":{}}}} } {cloud-controller-manager Update v1 2023-04-03 11:28:26 +0800 CST FieldsV1 {"f:status":{"f:conditions":{"k:{\"type\":\"NetworkUnavailable\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}}}}} status} {kube-controller-manager Update v1 2023-04-03 11:28:26 +0800 CST FieldsV1 {"f:metadata":{"f:annotations":{"f:node.alpha.kubernetes.io/ttl":{}}}} } {cloud-node-manager Update v1 2023-04-03 11:28:35 +0800 CST FieldsV1 {"f:metadata":{"f:labels":{"f:beta.kubernetes.io/instance-type":{},"f:failure-domain.beta.kubernetes.io/region":{},"f:failure-domain.beta.kubernetes.io/zone":{},"f:node.kubernetes.io/instance-type":{},"f:topology.kubernetes.azure.com/sub-fault-domain":{},"f:topology.kubernetes.io/region":{},"f:topology.kubernetes.io/zone":{}}},"f:spec":{"f:providerID":{}}} } {kubectl-label Update v1 2023-04-03 11:28:36 +0800 CST FieldsV1 {"f:metadata":{"f:labels":{"f:kubernetes.io/role":{},"f:node-role.kubernetes.io/agent":{}}}} } {kubelet Update v1 2023-04-03 11:28:43 +0800 CST FieldsV1 {"f:metadata":{"f:annotations":{"f:csi.volume.kubernetes.io/nodeid":{}},"f:labels":{"f:topology.disk.csi.azure.com/zone":{}}},"f:status":{"f:conditions":{"k:{\"type\":\"DiskPressure\"}":{"f:lastHeartbeatTime":{}},"k:{\"type\":\"MemoryPressure\"}":{"f:lastHeartbeatTime":{}},"k:{\"type\":\"PIDPressure\"}":{"f:lastHeartbeatTime":{}},"k:{\"type\":\"Ready\"}":{"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{}}},"f:images":{}}} status} {node-problem-detector Update v1 2023-04-03 11:30:50 +0800 CST FieldsV1 {"f:status":{"f:conditions":{"k:{\"type\":\"ContainerRuntimeProblem\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}},"k:{\"type\":\"FilesystemCorruptionProblem\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}},"k:{\"type\":\"FrequentContainerdRestart\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}},"k:{\"type\":\"FrequentDockerRestart\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}},"k:{\"type\":\"FrequentKubeletRestart\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}},"k:{\"type\":\"FrequentUnregisterNetDevice\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}},"k:{\"type\":\"KernelDeadlock\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}},"k:{\"type\":\"KubeletProblem\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}},"k:{\"type\":\"ReadonlyFilesystem\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}},"k:{\"type\":\"VMEventScheduled\"}":{".":{},"f:lastHeartbeatTime":{},"f:lastTransitionTime":{},"f:message":{},"f:reason":{},"f:status":{},"f:type":{}}}}} status}]},Spec:NodeSpec{PodCIDR:10.244.0.0/24,DoNotUseExternalID:,ProviderID:azure:///subscriptions/8ecadfc9-d1a3-4ea4-b844-0d9f87e4d7c8/resourceGroups/mc_weizhichen_weizhichen_eastus/providers/Microsoft.Compute/virtualMachineScaleSets/aks-nodepool1-39579978-vmss/virtualMachines/0,Unschedulable:false,Taints:[]Taint{},ConfigSource:nil,PodCIDRs:[10.244.0.0/24],},Status:NodeStatus{Capacity:ResourceList{cpu: {{2 0} {<nil>} 2 DecimalSI},ephemeral-storage: {{133003395072 0} {<nil>}  BinarySI},hugepages-1Gi: {{0 0} {<nil>} 0 DecimalSI},hugepages-2Mi: {{0 0} {<nil>} 0 DecimalSI},memory: {{7287058432 0} {<nil>} 7116268Ki BinarySI},pods: {{110 0} {<nil>} 110 DecimalSI},},Allocatable:ResourceList{cpu: {{1900 -3} {<nil>} 1900m DecimalSI},ephemeral-storage: {{119703055367 0} {<nil>} 119703055367 DecimalSI},hugepages-1Gi: {{0 0} {<nil>} 0 DecimalSI},hugepages-2Mi: {{0 0} {<nil>} 0 DecimalSI},memory: {{4783058944 0} {<nil>} 4670956Ki BinarySI},pods: {{110 0} {<nil>} 110 DecimalSI},},Phase:,Conditions:[]NodeCondition{NodeCondition{Type:FrequentKubeletRestart,Status:False,LastHeartbeatTime:2023-04-03 13:16:39 +0800 CST,LastTransitionTime:2023-04-03 11:30:49 +0800 CST,Reason:NoFrequentKubeletRestart,Message:kubelet is functioning properly,},NodeCondition{Type:KernelDeadlock,Status:False,LastHeartbeatTime:2023-04-03 13:16:39 +0800 CST,LastTransitionTime:2023-04-03 11:30:49 +0800 CST,Reason:KernelHasNoDeadlock,Message:kernel has no deadlock,},NodeCondition{Type:FrequentDockerRestart,Status:False,LastHeartbeatTime:2023-04-03 13:16:39 +0800 CST,LastTransitionTime:2023-04-03 11:30:49 +0800 CST,Reason:NoFrequentDockerRestart,Message:docker is functioning properly,},NodeCondition{Type:ReadonlyFilesystem,Status:False,LastHeartbeatTime:2023-04-03 13:16:39 +0800 CST,LastTransitionTime:2023-04-03 11:30:49 +0800 CST,Reason:FilesystemIsNotReadOnly,Message:Filesystem is not read-only,},NodeCondition{Type:ContainerRuntimeProblem,Status:False,LastHeartbeatTime:2023-04-03 13:16:39 +0800 CST,LastTransitionTime:2023-04-03 11:30:49 +0800 CST,Reason:ContainerRuntimeIsUp,Message:container runtime service is up,},NodeCondition{Type:VMEventScheduled,Status:False,LastHeartbeatTime:2023-04-03 13:16:39 +0800 CST,LastTransitionTime:2023-04-03 11:31:24 +0800 CST,Reason:NoVMEventScheduled,Message:VM has no scheduled event,},NodeCondition{Type:FrequentUnregisterNetDevice,Status:False,LastHeartbeatTime:2023-04-03 13:16:39 +0800 CST,LastTransitionTime:2023-04-03 11:30:49 +0800 CST,Reason:NoFrequentUnregisterNetDevice,Message:node is functioning properly,},NodeCondition{Type:FilesystemCorruptionProblem,Status:False,LastHeartbeatTime:2023-04-03 13:16:39 +0800 CST,LastTransitionTime:2023-04-03 11:30:49 +0800 CST,Reason:FilesystemIsOK,Message:Filesystem is healthy,},NodeCondition{Type:FrequentContainerdRestart,Status:False,LastHeartbeatTime:2023-04-03 13:16:39 +0800 CST,LastTransitionTime:2023-04-03 11:30:49 +0800 CST,Reason:NoFrequentContainerdRestart,Message:containerd is functioning properly,},NodeCondition{Type:KubeletProblem,Status:False,LastHeartbeatTime:2023-04-03 13:16:39 +0800 CST,LastTransitionTime:2023-04-03 11:30:49 +0800 CST,Reason:KubeletIsUp,Message:kubelet service is up,},NodeCondition{Type:NetworkUnavailable,Status:False,LastHeartbeatTime:2023-04-03 11:29:13 +0800 CST,LastTransitionTime:2023-04-03 11:29:13 +0800 CST,Reason:RouteCreated,Message:RouteController created a route,},NodeCondition{Type:MemoryPressure,Status:False,LastHeartbeatTime:2023-04-03 13:15:50 +0800 CST,LastTransitionTime:2023-04-03 11:28:17 +0800 CST,Reason:KubeletHasSufficientMemory,Message:kubelet has sufficient memory available,},NodeCondition{Type:DiskPressure,Status:False,LastHeartbeatTime:2023-04-03 13:15:50 +0800 CST,LastTransitionTime:2023-04-03 11:28:17 +0800 CST,Reason:KubeletHasNoDiskPressure,Message:kubelet has no disk pressure,},NodeCondition{Type:PIDPressure,Status:False,LastHeartbeatTime:2023-04-03 13:15:50 +0800 CST,LastTransitionTime:2023-04-03 11:28:17 +0800 CST,Reason:KubeletHasSufficientPID,Message:kubelet has sufficient PID available,},NodeCondition{Type:Ready,Status:True,LastHeartbeatTime:2023-04-03 13:15:50 +0800 CST,LastTransitionTime:2023-04-03 11:28:26 +0800 CST,Reason:KubeletReady,Message:kubelet is posting ready status. AppArmor enabled,},},Addresses:[]NodeAddress{NodeAddress{Type:InternalIP,Address:10.224.0.4,},NodeAddress{Type:Hostname,Address:aks-nodepool1-39579978-vmss000000,},},DaemonEndpoints:NodeDaemonEndpoints{KubeletEndpoint:DaemonEndpoint{Port:10250,},},NodeInfo:NodeSystemInfo{MachineID:1014fe3d576f4a0b904ff2d2aa5efe39,SystemUUID:b28878eb-2f84-449d-8a5a-e979e7b7cb10,BootID:cea1aff4-c651-4fcf-859d-8935540a552c,KernelVersion:5.4.0-1104-azure,OSImage:Ubuntu 18.04.6 LTS,ContainerRuntimeVersion:containerd://1.6.18+azure-1,KubeletVersion:v1.24.9,KubeProxyVersion:v1.24.9,OperatingSystem:linux,Architecture:amd64,},Images:[]ContainerImage{ContainerImage{Names:[mcr.microsoft.com/azuremonitor/containerinsights/ciprod:ciprod01182023-095c864a],SizeBytes:401310295,},ContainerImage{Names:[mcr.microsoft.com/azuredefender/stable/low-level-init@sha256:65b99ab432f3a164e3bea2e5d0350039e597176eda3179f2a59ef4696e9d65df mcr.microsoft.com/azuredefender/stable/low-level-init:1.3.57],SizeBytes:374449658,},ContainerImage{Names:[mcr.microsoft.com/azuredefender/stable/low-level-collector@sha256:07e6640452537dfb75f4f30f25178a9be4151ddc7578436a6ee8843d79889fe1 mcr.microsoft.com/azuredefender/stable/low-level-collector:1.3.57],SizeBytes:315495474,},ContainerImage{Names:[mcr.microsoft.com/oss/calico/cni:v3.23.3],SizeBytes:254912666,},ContainerImage{Names:[mcr.microsoft.com/oss/calico/node:v3.24.0],SizeBytes:242155228,},ContainerImage{Names:[mcr.microsoft.com/azuremonitor/containerinsights/ciprod/prometheus-collector/images:6.4.0-main-02-22-2023-3ee44b9e],SizeBytes:235387297,},ContainerImage{Names:[mcr.microsoft.com/azuremonitor/containerinsights/ciprod/prometheus-collector/images:6.2.0-main-01-31-2023-e1e3858b],SizeBytes:231209810,},ContainerImage{Names:[mcr.microsoft.com/oss/calico/node:v3.23.3],SizeBytes:210001116,},ContainerImage{Names:[mcr.microsoft.com/oss/calico/cni:v3.24.0],SizeBytes:197455452,},ContainerImage{Names:[mcr.microsoft.com/oss/tigera/operator:v1.23.8],SizeBytes:184105789,},ContainerImage{Names:[mcr.microsoft.com/azuredefender/stable/security-publisher@sha256:d5de5c8fa8213dc5c178d7a5c9c5c5d8c7ba14c65c5fbd2d661f7670af6cbdf5 mcr.microsoft.com/azuredefender/stable/security-publisher:1.0.56],SizeBytes:172024457,},ContainerImage{Names:[mcr.microsoft.com/oss/cilium/cilium:1.12.5.1],SizeBytes:167161797,},ContainerImage{Names:[mcr.microsoft.com/oss/cilium/cilium:1.12.5],SizeBytes:166719560,},ContainerImage{Names:[mcr.microsoft.com/aks/hcp/hcp-tunnel-front:master.220527.2],SizeBytes:146994488,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.23.8-hotfix.20221109.2],SizeBytes:129759841,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.23.15-hotfix.20230208.1],SizeBytes:129047780,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.23.15-hotfix.20230114.1],SizeBytes:129044890,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.23.12-hotfix.20230208.1],SizeBytes:129035493,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.23.12-hotfix.20221109.3],SizeBytes:129032238,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.23.8-hotfix.20221109.3],SizeBytes:129024002,},ContainerImage{Names:[mcr.microsoft.com/oss/calico/kube-controllers:v3.23.3],SizeBytes:127665612,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.24.3-hotfix.20221109.2],SizeBytes:124317726,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.24.10.3],SizeBytes:123943958,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes-csi/azuredisk-csi:v1.2.2.5],SizeBytes:123925992,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.24.9-hotfix.20230208.1],SizeBytes:123621361,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.24.9.2],SizeBytes:123619809,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.24.6-hotfix.20230208.1],SizeBytes:123592204,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.24.6-hotfix.20221216.1],SizeBytes:123591025,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.24.3-hotfix.20221216.1],SizeBytes:123582285,},ContainerImage{Names:[mcr.microsoft.com/oss/calico/typha:v3.23.3],SizeBytes:123064920,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.22.15-hotfix.20221109.1],SizeBytes:115897684,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/kube-proxy:v1.22.11-hotfix.20221109.1],SizeBytes:115893639,},ContainerImage{Names:[mcr.microsoft.com/containernetworking/azure-cns:v1.4.39],SizeBytes:108128135,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/ingress/nginx-ingress-controller:v1.2.1],SizeBytes:107169290,},ContainerImage{Names:[mcr.microsoft.com/oss/calico/node:v3.8.9.5],SizeBytes:101794833,},ContainerImage{Names:[mcr.microsoft.com/containernetworking/azure-cns:v1.4.35],SizeBytes:101298296,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes-csi/azuredisk-csi:v1.26.2.1],SizeBytes:98376266,},ContainerImage{Names:[mcr.microsoft.com/aks/acc/sgx-attestation:3.1],SizeBytes:98058501,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes-csi/azuredisk-csi@sha256:4be036dd35933a8889a5b14f98a8377e8057e652a64f0bc3908225d58db34daa mcr.microsoft.com/oss/kubernetes-csi/azuredisk-csi:v1.26.2],SizeBytes:96303779,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes/exechealthz:1.2_v0.0.5],SizeBytes:94348102,},ContainerImage{Names:[mcr.microsoft.com/aks/hcp/tunnel-openvpn:master.220527.2],SizeBytes:92531564,},ContainerImage{Names:[mcr.microsoft.com/containernetworking/azure-npm:v1.4.32],SizeBytes:90048618,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes-csi/azurefile-csi:v1.2.2],SizeBytes:88551490,},ContainerImage{Names:[mcr.microsoft.com/aks/command/runtime:master.220211.1],SizeBytes:82792811,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes-csi/azurefile-csi:v1.24.0],SizeBytes:81899739,},ContainerImage{Names:[mcr.microsoft.com/oss/kubernetes-csi/secrets-store/driver:v1.2.2.4],SizeBytes:71938142,},ContainerImage{Names:[mcr.microsoft.com/oss/calico/kube-controllers:v3.24.0],SizeBytes:71347091,},ContainerImage{Names:[mcr.microsoft.com/containernetworking/cni-dropgz:v0.0.4],SizeBytes:68392344,},ContainerImage{Names:[mcr.microsoft.com/oss/tigera/operator:v1.28.0],SizeBytes:67441354,},ContainerImage{Names:[mcr.microsoft.com/oss/nvidia/k8s-device-plugin:v0.9.0],SizeBytes:67291599,},},VolumesInUse:[],VolumesAttached:[]AttachedVolume{},Config:nil,},}
+  Apr  3 13:17:59.249: INFO: 
+  Logging kubelet events for node aks-nodepool1-39579978-vmss000000
+  Apr  3 13:17:59.521: INFO: 
+  Logging pods the kubelet thinks is on node aks-nodepool1-39579978-vmss000000
+  Apr  3 13:18:02.867: INFO: coredns-59b6bf8b4f-6brm9 started at 2023-04-03 11:29:13 +0800 CST (0+1 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container coredns ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: metrics-server-7dd74d8758-jxj8d started at 2023-04-03 11:29:28 +0800 CST (0+2 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container metrics-server ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: 	Container metrics-server-vpa ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: konnectivity-agent-8b6f9b587-thrfs started at 2023-04-03 11:38:17 +0800 CST (0+1 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container konnectivity-agent ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: coredns-59b6bf8b4f-m9d69 started at 2023-04-03 11:29:22 +0800 CST (0+1 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container coredns ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: metrics-server-7dd74d8758-mpkzl started at 2023-04-03 11:29:28 +0800 CST (0+2 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container metrics-server ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: 	Container metrics-server-vpa ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: konnectivity-agent-8b6f9b587-dxvhg started at 2023-04-03 11:38:18 +0800 CST (0+1 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container konnectivity-agent ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: microsoft-defender-publisher-ds-sxs76 started at 2023-04-03 11:57:56 +0800 CST (1+1 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Init container old-file-cleaner ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: 	Container microsoft-defender-publisher ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: microsoft-defender-collector-misc-8c7b76cdc-54tsq started at 2023-04-03 11:57:56 +0800 CST (0+1 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container microsoft-defender-pod-collector ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: kube-proxy-tfvlt started at 2023-04-03 11:28:18 +0800 CST (1+1 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Init container kube-proxy-bootstrap ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: 	Container kube-proxy ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: azure-ip-masq-agent-t6hqw started at 2023-04-03 11:28:18 +0800 CST (0+1 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container azure-ip-masq-agent ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: cloud-node-manager-c4x27 started at 2023-04-03 11:28:18 +0800 CST (0+1 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container cloud-node-manager ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: microsoft-defender-collector-ds-rbp6c started at 2023-04-03 11:57:56 +0800 CST (1+2 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Init container low-level-init ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: 	Container microsoft-defender-low-level-collector ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: 	Container microsoft-defender-pod-collector ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: coredns-autoscaler-5655d66f64-5zg2t started at 2023-04-03 11:29:13 +0800 CST (0+1 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container autoscaler ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: csi-azurefile-node-djd5k started at 2023-04-03 11:28:18 +0800 CST (0+3 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container azurefile ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: 	Container liveness-probe ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: 	Container node-driver-registrar ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: csi-azuredisk-node-2nbhb started at 2023-04-03 11:28:18 +0800 CST (0+3 container statuses recorded)
+  Apr  3 13:18:02.867: INFO: 	Container azuredisk ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: 	Container liveness-probe ready: true, restart count 0
+  Apr  3 13:18:02.867: INFO: 	Container node-driver-registrar ready: true, restart count 0
+  Apr  3 13:18:05.370: INFO: 
+  Latency metrics for node aks-nodepool1-39579978-vmss000000
+  [1mEND STEP:[0m dump namespace information after failure [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:271 @ 04/03/23 13:18:05.37 (7.58s)[0m
+  < Exit [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- dump namespaces | framework.go:196 @ 04/03/23 13:18:05.37 (7.58s)[0m
+  > Enter [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- tear down framework | framework.go:193 @ 04/03/23 13:18:05.37[0m
+  [1mSTEP:[0m Destroying namespace "framework-e2e-3598" for this suite. [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:334 @ 04/03/23 13:18:05.37[0m
+  < Exit [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- tear down framework | framework.go:193 @ 04/03/23 13:18:05.615 (245ms)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;10m[SynchronizedAfterSuite] PASSED [0.000 seconds][0m
+[38;5;10m[1m[SynchronizedAfterSuite] [0m
+[38;5;243m/home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:18:05.621[0m
+  < Exit [1m[SynchronizedAfterSuite][0m TOP-LEVEL [38;5;243m- /home/weizhichen/go-playground/ginkgo/framework/e2e_test.go:21 @ 04/03/23 13:18:05.621 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+[38;5;214m• [INTERRUPTED] [0.259 seconds][0m
+[38;5;214m[1mFramework E2E [BeforeEach][0m
+[38;5;243mset up framework | framework.go:178[0m
+  should run serial test
+  [38;5;243m/home/weizhichen/go-playground/ginkgo/framework/framework_test.go:21[0m
+
+  [38;5;243mTimeline >>[0m
+  > Enter [1m[BeforeEach][0m Framework E2E [38;5;243m- set up framework | framework.go:178 @ 04/03/23 13:18:05.675[0m
+  [1mSTEP:[0m Creating a kubernetes client [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:198 @ 04/03/23 13:18:05.675[0m
+  Apr  3 13:18:05.675: INFO: >>> kubeConfig: /home/weizhichen/.kube/config
+  [1mSTEP:[0m Building a namespace api object, basename framework-e2e [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:237 @ 04/03/23 13:18:05.681[0m
+  [38;5;214m[INTERRUPTED] Interrupted by Other Ginkgo Process[0m
+  [38;5;214mIn [1m[BeforeEach][0m[38;5;214m at: [1mset up framework | framework.go:178[0m [38;5;243m@ 04/03/23 13:18:05.931[0m
+  < Exit [1m[BeforeEach][0m Framework E2E [38;5;243m- set up framework | framework.go:178 @ 04/03/23 13:18:05.933 (259ms)[0m
+  > Enter [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- dump namespaces | framework.go:196 @ 04/03/23 13:18:05.933[0m
+  [1mSTEP:[0m dump namespace information after failure [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:271 @ 04/03/23 13:18:05.933[0m
+  [1mEND STEP:[0m dump namespace information after failure [38;5;243m- /home/weizhichen/go/pkg/mod/k8s.io/kubernetes@v1.26.0/test/e2e/framework/framework.go:271 @ 04/03/23 13:18:05.933 (0s)[0m
+  < Exit [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- dump namespaces | framework.go:196 @ 04/03/23 13:18:05.933 (0s)[0m
+  > Enter [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- tear down framework | framework.go:193 @ 04/03/23 13:18:05.933[0m
+  < Exit [1m[DeferCleanup (Each)][0m Framework E2E [38;5;243m- tear down framework | framework.go:193 @ 04/03/23 13:18:05.933 (0s)[0m
+  [38;5;243m<< Timeline[0m
+[38;5;243m------------------------------[0m
+
+Ginkgo ran 1 suite in 17.352717837s
+
+Test Suite Failed
+
+Ginkgo timed out waiting for all parallel procs to report back
+Test suite: framework (.)
+
+This occurs if a parallel process exits before it reports its results to the
+Ginkgo CLI.  The CLI will now print out all the stdout/stderr output it's
+collected from the running processes.  However you may not see anything useful
+in these logs because the individual test processes usually intercept output to
+stdout/stderr in order to capture it in the spec reports.
+
+You may want to try rerunning your test suite with
+--output-interceptor-mode=none to see additional output here and debug your
+suite.
+  
+Output from proc 1:
+    Apr  3 13:17:54.429: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  panic: runtime error: invalid memory address or nil pointer dereference [recovered]
+        panic: runtime error: invalid memory address or nil pointer dereference
+
+  goroutine 133 [running]:
+  k8s.io/apimachinery/pkg/util/runtime.HandleCrash({0x0, 0x0, 0x2540be400?})
+        /home/weizhichen/go/pkg/mod/k8s.io/apimachinery@v0.26.0/pkg/util/runtime/runtime.go:56 +0xd7
+  panic({0x1b076c0, 0x2f2a650})
+        /usr/local/go/src/runtime/panic.go:884 +0x213
+  k8s.io/client-go/tools/cache.(*Reflector).list(0xc0005e0000, 0xc00006a840)
+        /home/weizhichen/go/pkg/mod/k8s.io/client-go@v0.26.0/tools/cache/reflector.go:419 +0xb65
+  k8s.io/client-go/tools/cache.(*Reflector).ListAndWatch(0xc0005e0000, 0xc00006a840)
+        /home/weizhichen/go/pkg/mod/k8s.io/client-go@v0.26.0/tools/cache/reflector.go:259 +0x152
+  k8s.io/client-go/tools/cache.(*Reflector).Run.func1()
+        /home/weizhichen/go/pkg/mod/k8s.io/client-go@v0.26.0/tools/cache/reflector.go:223 +0x26
+  k8s.io/apimachinery/pkg/util/wait.BackoffUntil.func1(0x10?)
+        /home/weizhichen/go/pkg/mod/k8s.io/apimachinery@v0.26.0/pkg/util/wait/wait.go:157 +0x3e
+  k8s.io/apimachinery/pkg/util/wait.BackoffUntil(0xc00005dc40?, {0x20676a0, 0xc000485e50}, 0x1, 0xc00006a840)
+        /home/weizhichen/go/pkg/mod/k8s.io/apimachinery@v0.26.0/pkg/util/wait/wait.go:158 +0xb6
+  k8s.io/client-go/tools/cache.(*Reflector).Run(0xc0005e0000, 0xc00006a840)
+        /home/weizhichen/go/pkg/mod/k8s.io/client-go@v0.26.0/tools/cache/reflector.go:222 +0x185
+  k8s.io/apimachinery/pkg/util/wait.(*Group).StartWithChannel.func1()
+        /home/weizhichen/go/pkg/mod/k8s.io/apimachinery@v0.26.0/pkg/util/wait/wait.go:58 +0x22
+  k8s.io/apimachinery/pkg/util/wait.(*Group).Start.func1()
+        /home/weizhichen/go/pkg/mod/k8s.io/apimachinery@v0.26.0/pkg/util/wait/wait.go:75 +0x5a
+  created by k8s.io/apimachinery/pkg/util/wait.(*Group).Start
+        /home/weizhichen/go/pkg/mod/k8s.io/apimachinery@v0.26.0/pkg/util/wait/wait.go:73 +0x85
+
+Output from proc 2:
+    Apr  3 13:17:54.421: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 3:
+    Apr  3 13:17:54.410: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 4:
+    Apr  3 13:17:54.425: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 5:
+    Apr  3 13:17:54.421: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 6:
+    Apr  3 13:17:54.401: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 7:
+    Apr  3 13:17:54.407: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 8:
+    Apr  3 13:17:54.428: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 9:
+    Apr  3 13:17:54.436: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 10:
+    Apr  3 13:17:54.401: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  --- FAIL: TestE2E (11.22s)
+  FAIL
+
+Output from proc 11:
+    Apr  3 13:17:54.416: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 12:
+    Apr  3 13:17:54.434: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 13:
+    Apr  3 13:17:54.401: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 14:
+    Apr  3 13:17:54.417: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
+
+Output from proc 15:
+    Apr  3 13:17:54.438: INFO: The --provider flag is not set. Continuing as if --provider=skeleton had been used.
+  PASS
