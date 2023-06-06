@@ -2,10 +2,13 @@ package main
 
 import (
 	"fmt"
-	"path/filepath"
-	"strings"
+	"regexp"
 )
 
 func main() {
-	fmt.Println(filepath.Dir(strings.TrimSuffix("/", "/")))
+	var s string = "a  b                c  d  e"
+
+	reg := regexp.MustCompile(`\s+`)
+	s = reg.ReplaceAllString(s, " ")
+	fmt.Println(s)
 }
