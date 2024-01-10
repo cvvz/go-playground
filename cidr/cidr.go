@@ -47,7 +47,6 @@ func getAvailableSubnetAddressRange(vnetAddressSpace string, existingSubnetAddre
 
 	var cidr *net.IPNet
 	for cidr, err = cidrSet.AllocateNext(); err == nil; cidr, err = cidrSet.AllocateNext() {
-		// 判断cidr和subnetAddressSpaces是否overlap
 		for _, subnetAddressSpace := range existingSubnetAddressSpaces {
 			_, subnetCIDR, _ := net.ParseCIDR(subnetAddressSpace)
 			if cidrIntersect(cidr, subnetCIDR) {
