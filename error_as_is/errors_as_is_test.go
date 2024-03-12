@@ -18,15 +18,20 @@ func TestErrorsAsIs(t *testing.T) {
 	err := foo()
 	var myerr2 *MyError
 
+	var myerr3 *MyError = &MyError{}
 	if errors.Is(err, myerr2) {
 		fmt.Printf("Is myerr2, %s\n", err)
+	}
+
+	if errors.As(err, &myerr3) {
+		fmt.Printf("As MyError, %s\n", err)
 	}
 
 	if errors.Is(err, &MyError{}) {
 		fmt.Printf("Is MyError, %s\n", err)
 	}
 
-	if errors.As(err, &myerr2) {
+	if errors.As(err, &MyError{}) {
 		fmt.Printf("As MyError, %s\n", err)
 	}
 }
